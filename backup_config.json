@@ -1,0 +1,11 @@
+{
+    "source_folders": [
+        "C:/Users/vincent/Documents/1.CPE/1.4A/1_StageLisbonne/w2/File-Backup-Logger/test_project/data",
+        "C:/Users/vincent/Documents/1.CPE/1.4A/1_StageLisbonne/w2/File-Backup-Logger/test_project/docs",
+        "C:/Users/vincent/Documents/1.CPE/1.4A/1_StageLisbonne/w2/File-Backup-Logger/test_project/src"
+    ],
+    "destination_folder": "C:/Users/vincent/Documents/1.CPE/1.4A/1_StageLisbonne/w2/File-Backup-Logger",
+    "use_compression": true,
+    "backup_interval_minutes": 1,
+    "log_file": "backup.log"
+}

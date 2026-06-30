@@ -1,0 +1,6 @@
+test_project/
+*.zip
+__pycache__/
+backup.log
+
+
